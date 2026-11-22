@@ -5,8 +5,8 @@ Hi, I'm Shikha. I work in performance marketing (Google Ads, Microsoft Ads, Crit
 ## Projects
 | Project | Tools | Status |
 |---|---|---|
-| Ecommerce marketing dashboard | Looker Studio, GA4 | In progress |
-| Attribution analysis | BigQuery, SQL | Not started |
+| Ecommerce marketing dashboard | Looker Studio, GA4 | Completed |
+| Attribution analysis | BigQuery, SQL | In Progress |
 | Unit economics model | Sheets / Python | Not started |
 
 ## About me
